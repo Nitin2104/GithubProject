@@ -6,5 +6,9 @@ public class Test {
 		System.out.println("I am Nithin");
 
 	}
+	
+	public static void sayHi() {
+		System.out.println("Hi..., I am Developer-1");
+	}
 
 }
